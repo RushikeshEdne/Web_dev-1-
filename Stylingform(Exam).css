@@ -1,0 +1,27 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin:15px,20px;
+    font-size: 18px;
+    padding: 10px;
+}
+.Container{
+    background-color: aquamarine;
+    padding:5px,20px,15px,20px;
+    border: 3px solid red;
+    border-radius: 4px;
+}
+input[type="submit"]{
+    background-color: rgb(112, 119, 88);
+    cursor:pointer;
+}
+input[type="submit"]:hover{
+    color: red;
+}
+input[type="radio"],
+input[type="email"],
+input[type="number"],
+input[type="text"]{
+    font-style: italic;
+}
+
+

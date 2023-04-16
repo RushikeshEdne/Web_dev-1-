@@ -1,0 +1,18 @@
+p{
+    color :rgb(255, 123, 0);
+}
+h3{
+    color :rgb(42, 165, 97);
+}
+.first{
+    color: blueviolet;
+    font-size: x-large;
+    background-color: beige;
+}
+#imp{
+    color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+}
+a:hover{
+    color: rgb(211, 21, 21);
+}
